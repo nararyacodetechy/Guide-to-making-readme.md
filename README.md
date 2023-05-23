@@ -55,8 +55,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+In order to run this project, it is necessary that the requirements must be met and the appropriate installation flow. This aims to make the project run successfully and ensure that it meets the required requirements. There are several solutions if the project may not run due to an outdated version.
 
 ### Prerequisites
 
@@ -79,6 +78,8 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    npm run start-dev
    ```
+
+### Alternative Solution
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
