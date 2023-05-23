@@ -133,8 +133,8 @@ Please ⭐️ this repository if this project helped you!
 
 ## 📝 License
 
-Copyright © 2019 [Franck Abgrall](https://github.com/kefranabg).<br />
-This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
+<p align="center">Copyright © 2019 [Franck Abgrall](https://github.com/kefranabg).</p>
+<p align="center">This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.</p>
 
 ---
 
