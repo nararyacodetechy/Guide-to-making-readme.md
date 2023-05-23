@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <header align="center">
-  <a href="https://github.com/nararyacodetechy/Capstone-Konsultasi-Remaja">
+  <a align="center" href="https://github.com/nararyacodetechy/Capstone-Konsultasi-Remaja">
     <img src="images/favicon.png" alt="Logo" width="80" height="80">
   </a>
 
