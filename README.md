@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -23,7 +25,7 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>List of Contents</summary>
-  <ol>
+  <ol style="list-style="none"; ">
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li>
@@ -50,5 +52,5 @@
 
 [Node.js]: https://img.icons8.com/fluency/48/node-js.png
 [Node-url]: https://nodejs.org
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap.com]: https://img.icons8.com/color/48/bootstrap.png
 [Bootstrap-url]: https://getbootstrap.com
