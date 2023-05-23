@@ -52,6 +52,36 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- GETTING STARTED -->
+## Getting Started
+
+This is an example of how you may give instructions on setting up your project locally.
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+
+### Installation
+
+1. Clone the repository
+   ```sh
+   git clone https://github.com/nararyacodetechy/Capstone-Konsultasi-Remaja.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Build Project
+   ```sh
+   npm run build
+   ```
+4. Run Project
+   ```sh
+   npm run start-dev
+   ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- MARKDOWN LINKS & IMAGES -->
 [Node.org]: https://img.icons8.com/fluency/48/node-js.png
 [Node-url]: https://nodejs.org
