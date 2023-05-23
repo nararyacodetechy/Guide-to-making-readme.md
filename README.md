@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<header align="center">
   <a href="https://github.com/nararyacodetechy/Capstone-Konsultasi-Remaja">
     <img src="images/favicon.png" alt="Logo" width="80" height="80">
   </a>
@@ -19,5 +19,5 @@
     ·
     <a href="https://github.com/nararyacodetechy/Capstone-Konsultasi-Remaja">Request Feature</a>
   </p>
-</div>
+</header>
 
