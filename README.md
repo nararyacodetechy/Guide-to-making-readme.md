@@ -25,7 +25,7 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>List of Contents</summary>
-  <ol style="list-style="none"; ">
+  <ol>
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#built-with">Built With</a></li>
     <li>
@@ -45,8 +45,8 @@
 
 ### Built With
 
-* [![NodeJS][Node.js]][Node-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+[![NodeJS][Node.js]][Node-url]
+[![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
