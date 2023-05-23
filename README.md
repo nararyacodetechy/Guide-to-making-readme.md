@@ -45,12 +45,19 @@
 
 ### Built With
 
-[![NodeJS][Node.js]][Node-url]
+[![NodeJS][Node.org]][Node-url]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+[![NPM][NodePackageManagerJS.org]][NodePackageManager-url]
+[![Webpack][Webpack.js.org]][Webpack-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[Node.js]: https://img.icons8.com/fluency/48/node-js.png
+<!-- MARKDOWN LINKS & IMAGES -->
+[Node.org]: https://img.icons8.com/fluency/48/node-js.png
 [Node-url]: https://nodejs.org
 [Bootstrap.com]: https://img.icons8.com/color/48/bootstrap.png
 [Bootstrap-url]: https://getbootstrap.com
+[NodePackageManagerJS.org]: https://img.icons8.com/color/48/npm.png
+[NodePackageManager-url]: https://www.npmjs.com/
+[Webpack.js.org]: https://img.icons8.com/color/48/webpack.png
+[Webpack-url]: https://webpack.js.org/
